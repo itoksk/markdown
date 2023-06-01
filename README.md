@@ -5,3 +5,8 @@
 - 出身：静岡
 
 以上で終わります。
+
+| Column1 | Column2 | Column3 |
+| ------- | ------- | ------- |
+| Row1A   | Row1B   | Row1C   |
+| Row2A   | Row2B   | Row2C   |
